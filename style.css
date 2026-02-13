@@ -5,6 +5,7 @@
 }
 
 .container {
+    display: flex;
 
 }
 .left {
@@ -16,6 +17,7 @@
 }
 
 .row {
+    display: flex;
 
 }
 
